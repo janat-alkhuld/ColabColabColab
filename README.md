@@ -1,2 +1,2 @@
 # ColabColabColab
-Collaborative Code writing with collogues.  
+Collaborative Code writing with colleagues.  
